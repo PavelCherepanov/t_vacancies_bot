@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import requests
-# -*- coding: utf-8 -*-
-
 from bs4 import BeautifulSoup
 import json
 import string
